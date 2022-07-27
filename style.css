@@ -1,0 +1,42 @@
+.head{
+    text-align: center;
+}
+.inner-head{
+    margin-right: 25%;
+    margin-left: 25%;
+}
+.face{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:20px
+}
+
+.face img{
+    width:300;
+    height:300;
+    border-radius: 20px 20px 0px 0px;
+    box-sizing:content-box;
+    
+}
+.face>div{
+    width:300;
+ 
+border-radius: 20px; 
+
+box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.name h3{
+    text-align: center;
+}
+ p{
+    text-align: center;
+}
+hr{
+    
+}
+
+.digital img{
+    height: 50px;
+    width: 150px;
+}

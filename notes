@@ -1,0 +1,15 @@
+.face>div{
+    width:300;
+    height:300;
+    border-radius: 20px;
+    
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border: 1px solid black;
+}
+
+
+<p><h3>Nrupul Dev</h3></p><br>
+        <hr>
+        <div class="digital">
+        <center><img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/ex_da_557255e025.jpeg"></center>
+    </div>
